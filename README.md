@@ -1,6 +1,4 @@
-﻿# marcalfaro-dev
-
-## Hi, I'm Marcos 👋
+﻿## Hi, I'm Marcos 👋
 
 Software Developer & Systems Engineer passionate about building reliable, practical, and maintainable solutions.
 
